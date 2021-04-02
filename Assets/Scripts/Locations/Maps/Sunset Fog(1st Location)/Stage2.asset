@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781d4ff1eed78b14e8b7e5e39cdb050e, type: 3}
+  m_Name: Stage2
+  m_EditorClassIdentifier: 
+  stageIndex: 2
+  stageState: 1
+  minVelocity: 1.75
+  maxVelocity: 2.25
+  prefabAmount: 250
+  effectsList: 000000000100000002000000

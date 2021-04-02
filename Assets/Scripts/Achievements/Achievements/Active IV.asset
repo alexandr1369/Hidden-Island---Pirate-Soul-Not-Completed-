@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b069fcbd0bfc4343ad6a985743178ce, type: 3}
+  m_Name: Active IV
+  m_EditorClassIdentifier: 
+  isActive: 1
+  rank: 3
+  description: Play game 5 days in a row to get reward.
+  coinReward: 15000
+  soulReward: 50
+  goal:
+    goalType: 0
+    requiredAmount: 5
+    currentAmount: 0
+  template: {fileID: 21300000, guid: 856450f83899c1b4f8bcaf0f52db06ca, type: 3}
+  artwork: {fileID: 2803955146950545069, guid: 068f60f8b3c7760428772d6dd90b3bee, type: 3}

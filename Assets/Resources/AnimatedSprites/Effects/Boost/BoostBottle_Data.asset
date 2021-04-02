@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: BoostBottle_Data
+  m_EditorClassIdentifier: 
+  dataName: BoostBottle
+  dragonBonesJSON: {fileID: 4900000, guid: 24f6862e27e60dc4398d49c309c0eef0, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 570233ace903b404f8fab33d2a3a9c7b, type: 3}
+    texture: {fileID: 2800000, guid: 0289512ff81a2c44ebf1378e977e61e8, type: 3}
+    material: {fileID: 2100000, guid: 8f263810bd1a4e94c9af1665d4c0c829, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 78448c55ca2c9ea4fb53b6db0bbaa714, type: 2}

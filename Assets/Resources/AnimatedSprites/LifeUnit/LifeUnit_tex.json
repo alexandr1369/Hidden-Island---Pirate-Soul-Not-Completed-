@@ -1,0 +1,1 @@
+{"width":512,"SubTexture":[{"width":211,"y":1,"height":201,"name":"LiveUnit","x":1},{"width":171,"y":1,"height":200,"name":"LiveUnitLeft","x":214},{"width":144,"y":203,"height":190,"name":"LiveUnitRight","x":214}],"height":512,"name":"LifeUnit","imagePath":"LifeUnit_tex.png"}

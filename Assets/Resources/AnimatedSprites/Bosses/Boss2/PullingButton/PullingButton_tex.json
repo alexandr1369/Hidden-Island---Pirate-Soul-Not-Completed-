@@ -1,0 +1,1 @@
+{"SubTexture":[{"width":626,"y":629,"height":626,"name":"Btn2PullUp","x":1},{"width":626,"y":1257,"height":625,"name":"Btn2PullDown","x":1},{"width":626,"y":1,"height":625,"name":"Btn1PullDown","x":629},{"width":626,"y":1,"height":626,"name":"Btn1PullUp","x":1}],"width":2048,"height":2048,"name":"PullingButton","imagePath":"PullingButton_tex.png"}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: DefeatChest_Data
+  m_EditorClassIdentifier: 
+  dataName: DefeatChest
+  dragonBonesJSON: {fileID: 4900000, guid: 3cc49a124e841f146b6636ff1926ac3e, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: e1254b7ada4ca1f4ba760f7901ec1524, type: 3}
+    texture: {fileID: 2800000, guid: c5b18cd220f53bf4ebaf8a9b1f5218e5, type: 3}
+    material: {fileID: 2100000, guid: c06ba711d1761b74b89e3f1f208094f3, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 8f99322bad5dc184686385b78bc95dc6, type: 2}

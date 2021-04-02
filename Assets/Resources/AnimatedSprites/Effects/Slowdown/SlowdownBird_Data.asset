@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: SlowdownBird_Data
+  m_EditorClassIdentifier: 
+  dataName: SlowdownBird
+  dragonBonesJSON: {fileID: 4900000, guid: c4c94077d58f828479f8e8d82bc3c743, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 21f4bd2e15bc7b64a8f4da3599fb5b33, type: 3}
+    texture: {fileID: 2800000, guid: 22fd6dce4058d7d4c8b17d627d4b46cd, type: 3}
+    material: {fileID: 2100000, guid: e8b27bf205acf3642878d32868a4c186, type: 2}
+    uiMaterial: {fileID: 2100000, guid: c93c6115dbec8d846ab9c69142218f88, type: 2}

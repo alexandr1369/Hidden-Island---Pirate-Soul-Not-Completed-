@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: BossHusky_Data
+  m_EditorClassIdentifier: 
+  dataName: BossHusky
+  dragonBonesJSON: {fileID: 4900000, guid: 7ce11eb293ebd0b478057056ecabc8fe, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: ca7b6972538b4b94ab18e3f207874fb4, type: 3}
+    texture: {fileID: 2800000, guid: b9145b14471e55c4fb1210495da5aba2, type: 3}
+    material: {fileID: 2100000, guid: 13d72b6d1315cd941b69082d3237ce87, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 3444cea55a08e1d4a8bbd7a4828d9b25, type: 2}

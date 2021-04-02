@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: StormCloud_Data
+  m_EditorClassIdentifier: 
+  dataName: StormCloud
+  dragonBonesJSON: {fileID: 4900000, guid: 1efab95a98025f44a982243f5b8b9d35, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 6fbe4fbef160c154ba7f5d9a1fa95e82, type: 3}
+    texture: {fileID: 2800000, guid: b5028f98f6f2ca14bb3f1f2a58563571, type: 3}
+    material: {fileID: 2100000, guid: 4b364da619c9c0948a19b7e695efc813, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 1770be3ae4e141842a03821642cf0946, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: LifeUnit_Data
+  m_EditorClassIdentifier: 
+  dataName: LifeUnit
+  dragonBonesJSON: {fileID: 4900000, guid: 47c1acb7d441afb48ba604bd3a196c35, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 0a49881aa743a6e4baefe1a15ee281aa, type: 3}
+    texture: {fileID: 2800000, guid: 1ab271a45e9da7847a222d358251b7ab, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: b80ceb86d915d134e9a32da1a0aeafa5, type: 2}

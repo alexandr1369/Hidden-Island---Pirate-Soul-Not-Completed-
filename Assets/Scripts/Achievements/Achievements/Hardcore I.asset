@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b069fcbd0bfc4343ad6a985743178ce, type: 3}
+  m_Name: Hardcore I
+  m_EditorClassIdentifier: 
+  isActive: 0
+  title: Hardcore I
+  description: Stay alive for 1 minutes to get reward.
+  coinReward: 250
+  soulReward: 0
+  goal:
+    goalType: 4
+    requiredAmount: 1
+    currentAmount: 0
+  template: {fileID: 21300000, guid: d458f5cfc8dc8744d850bedfd2c41224, type: 3}
+  artwork: {fileID: 1781304134260629926, guid: 01b4fb066221ac24ea044ed64ee4caf1, type: 3}

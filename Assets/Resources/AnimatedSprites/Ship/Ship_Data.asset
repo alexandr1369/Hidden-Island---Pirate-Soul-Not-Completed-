@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: Ship_Data
+  m_EditorClassIdentifier: 
+  dataName: Ship
+  dragonBonesJSON: {fileID: 4900000, guid: dfec6b6bd940ce446b97298bdff46668, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: b777ae46dbda87440a4c9a2b0062ab04, type: 3}
+    texture: {fileID: 2800000, guid: f82aa3ac83070764992ced5869858ed6, type: 3}
+    material: {fileID: 2100000, guid: 00ef3f7044d27f344903135c809894b1, type: 2}
+    uiMaterial: {fileID: 2100000, guid: ffd9b2e1805bd5149bbb1147aab30564, type: 2}

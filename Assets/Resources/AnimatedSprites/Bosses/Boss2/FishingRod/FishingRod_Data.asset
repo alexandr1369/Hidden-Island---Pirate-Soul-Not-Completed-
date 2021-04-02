@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: FishingRod_Data
+  m_EditorClassIdentifier: 
+  dataName: FishingRod
+  dragonBonesJSON: {fileID: 4900000, guid: 15c7b6b9339e755498602d5daa967d36, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 41d80bd360d395c43ad6e63a19999b81, type: 3}
+    texture: {fileID: 2800000, guid: a9bee08fceb9cd34ba46d2fec5a356d7, type: 3}
+    material: {fileID: 2100000, guid: c3ec31a5e88aa934a8f428819a2f77f0, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 951c7ac5e8c408847a6d9b5d811d840b, type: 2}

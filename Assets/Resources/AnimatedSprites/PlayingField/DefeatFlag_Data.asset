@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b89ec38f9b8d6246a33b96ebcebc5a7, type: 3}
+  m_Name: DefeatFlag_Data
+  m_EditorClassIdentifier: 
+  dataName: DefeatFlag
+  dragonBonesJSON: {fileID: 4900000, guid: 07fe82951195fce449cfb0f37792ed18, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 72a0217dc4fc8184bba3ccd4020ced0d, type: 3}
+    texture: {fileID: 2800000, guid: 4448509bf77ee9b42b80c2b230eefc3d, type: 3}
+    material: {fileID: 2100000, guid: 96fc5e06abcd55349a07b32ffb47f6b8, type: 2}
+    uiMaterial: {fileID: 2100000, guid: e51476336b4552a409f4d76d0a402d03, type: 2}
